@@ -920,7 +920,7 @@ header
 .header-area .main-nav .nav li {
   margin-left: 35px;
 }
-.header-area .main-nav .nav li a {
+.header-area .main-nav .nav li a{
   display: block;
   font-weight: 600;
   font-size: 18px;
@@ -929,13 +929,24 @@ header
   -moz-transition: all 0.3s ease 0s;
   -o-transition: all 0.3s ease 0s;
   transition: all 0.3s ease 0s;
-  height: 36px;
-  line-height: 36px;
-  border: transparent;
+  height: 40px;
+  line-height: 40px;
 }
-.header-area .main-nav .nav li a:hover {
-  color: #b600c2 !important;
-}
+    .header-area .main-nav .nav li a:not(.btn-secondary-line) {
+        border: transparent;
+    }
+    .header-area.header-sticky .nav li a.btn-secondary-line{
+        border-color:black;
+    }
+    .header-area.header-sticky .nav li a img.whiteOpenSea, .header-area .nav li a img.blackOpenSea {
+        display: none;
+    }
+    .header-area .nav li a img.whiteOpenSea, .header-area.header-sticky .nav li a img.blackOpenSea {
+        display: inline;
+    }
+    .header-area .main-nav .nav li a:not(.btn-secondary-line):hover {
+        color: #b600c2 !important;
+    }
 .header-area .main-nav .nav li a.btn-nav-line {
   padding-left: 25px;
   padding-right: 25px;

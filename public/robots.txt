@@ -1,0 +1,4 @@
+sitemap: https://curiouspenguin.xyz/sitemap.xml
+
+User-agent: *
+Allow: /

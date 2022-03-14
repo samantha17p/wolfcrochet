@@ -21,13 +21,13 @@ For people who want to make changes to your project, please reach out for more o
 You will need a GitLab.com account to make any code changes and document commands to lint the code or run tests. These steps help to ensure high code quality and reduce the likelihood that the changes inadvertently break something. 
 
 ## Authors and acknowledgment
-Thanks to everyone that has contributed to this project. Especially...
+Thanks to everyone that has contributed to this project. Especially...<br>
 
-Chaker Khazaal
-Omar Kandil
-Katharine Gordon
-Davey Harris
-Karen Arnold
+Chaker Khazaal<br>
+Omar Kandil<br>
+Katharine Gordon<br>
+Davey Harris<br>
+Karen Arnold<br>
 
 ## License
 We aim to utlize a open source first approach with a focus on Linux. 

@@ -1,0 +1,4 @@
+Contact: mailto:sysadmin@curiouspenguins.com
+Expires: 2026-12-28T21:08:00.000Z
+Preferred-Languages: en
+Canonical: https://curiouspenguin.xyz/.well-known/security.txt

@@ -6,7 +6,7 @@ The First NFT Project Focused on Sustainability. Check out the website over at: 
 With the acceleration of new technology and the rise of Web 3.0, we can’t lose sight of sustainability and protecting the environment. Curious Penguins were created specifically for this reason. Holders of Curious Penguins care about the future of the planet and are concerned with global climate change.
 
 ## Visuals
-Insert penguin image.
+<img src="images/Xylologist-039.png">
 
 ## Support
 Any questions related to the project can be discussed in the discord community.

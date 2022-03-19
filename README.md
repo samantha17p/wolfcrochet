@@ -22,9 +22,9 @@ You will need a GitLab.com account to make any code changes and document command
 
 ## Projects
 We are curious about ideas and focus on open source projects. Here are some Curiuos Penguins projects that you can become involved in.
-https://gitlab.com/curiouspenguins/crypto.txt
-https://www.cssdorks.com
-https://ymoz.com
+https://gitlab.com/curiouspenguins/crypto.txt<br>
+https://www.cssdorks.com<br>
+https://ymoz.com<br>
 
 
 

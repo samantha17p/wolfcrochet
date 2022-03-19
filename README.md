@@ -21,7 +21,7 @@ For people who want to make changes to your project, please reach out for more o
 You will need a GitLab.com account to make any code changes and document commands to lint the code or run tests. These steps help to ensure high code quality and reduce the likelihood that the changes inadvertently break something. 
 
 ## Projects
-We are curious about ideas and focus on open source projects. Here are some Curiuos Penguins projects that you can become involved in.
+We are curious about ideas and focus on open source projects. Here are some Curiuos Penguins projects that you can become involved in.<br>
 https://gitlab.com/curiouspenguins/crypto.txt<br>
 https://www.cssdorks.com<br>
 https://ymoz.com<br>

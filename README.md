@@ -1,4 +1,4 @@
-# Curious Penguins
+ # Curious Penguins
 
 The First NFT Project Focused on Sustainability. Check out the website over at: https://curiouspenguin.xyz
 
@@ -12,7 +12,19 @@ With the acceleration of new technology and the rise of Web 3.0, we can’t lose
 Any questions related to the project can be discussed in the discord community.
 
 ## Roadmap
-The roadmap is available here: https://curiouspenguin.xyz/#roadmap
+Welcome to the Penguin-verse: Holders can come together in the metaverse to share a mutual respect for science and technology. 
+
+Join the Scientific Community: Each month, there will be an accelerator where holders can decide on how open source projects can be used to provide scientific solutions to real-world problems. A community wallet will be set up to fund the best projects. 
+
+Adopt a Penguin: Each NFT will be your ticket to adopt a penguin and support the longevity of their habitat.  
+
+Play and Earn: We will release a Curious Penguin game in the metaverse where penguins can interact and produce new tokens.
+  
+Curious Penguin Merch Store: Release of the Curious Penguins merch store including hats, hoodies, t-shirts. 30% of revenue will go back to the Curious Penguins community. The online store delivers globally.  
+
+Time to Show Off: An actual print of the NFT will be shipped and delivered to your doorstep so you can show off your support for the environment. 
+
+Let’s Get Together: Monthly organized meetings for the community to discuss sustainability in different locations around the world. Together we aim to build online and physical spaces that encourage creativity through collaboration.
 
 ## Contributing
 Curious Penguins is open to contributions as we build NFT infrastruture. 

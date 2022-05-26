@@ -1,6 +1,6 @@
  # Curious Penguins
 
-The First NFT Project Focused on Sustainability. Check out the website over at: https://curiouspenguins.com
+An NFT Project focused on creating art and science with open-source tools. Check out the website over at: https://curiouspenguins.com
 
 ## Description
 With the acceleration of new technology and the rise of Web 3.0, we can’t lose sight of sustainability and protecting the environment. Curious Penguins were created specifically for this reason. Holders of Curious Penguins care about the future of the planet and are concerned with global climate change.

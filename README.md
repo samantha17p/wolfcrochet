@@ -37,6 +37,8 @@ We are curious about ideas and focus on open source projects. Here are some Curi
 https://gitlab.com/curiouspenguins/crypto.txt<br>
 https://www.cssdorks.com<br>
 https://ymoz.com<br>
+https://wtp.curiouspenguins.com/<br>
+https://otp.curiouspenguins.com/<br>
 
 
 

@@ -50,6 +50,7 @@ Omar Kandil<br>
 Katharine Gordon<br>
 Davey Harris<br>
 Karen Arnold<br>
+Atikur Rahman<br>
 
 ## License
 We aim to utlize a open source first approach with a focus on Linux. 

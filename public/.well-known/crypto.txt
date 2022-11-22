@@ -1,1 +1,3 @@
 bitcoin: 39hBa6JmLTeWrjBGzFqPe5Bv5sBzjvAEBp
+dogecoin: DPABjPHTmGTytPcWaumPLo74y1bnePkva9
+litecoin: MNk1Ly1PcgAsHQpV5gWYoFpcA8bWaqoSdu

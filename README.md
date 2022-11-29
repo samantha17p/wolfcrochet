@@ -1,6 +1,6 @@
  # Curious Penguins
 
-An NFT Project focused on creating art and science with open-source tools. Check out the website over at: https://curiouspenguins.com
+Various projects focused on merging art and science with open-source tools. Check out the website over at: https://curiouspenguins.com
 
 ## Description
 With the acceleration of new technology and the rise of Web 3.0, we can’t lose sight of sustainability and protecting the environment. Curious Penguins were created specifically for this reason. Holders of Curious Penguins care about the future of the planet and are concerned with global climate change.
@@ -27,7 +27,7 @@ Time to Show Off: An actual print of the NFT will be shipped and delivered to yo
 Let’s Get Together: Monthly organized meetings for the community to discuss sustainability in different locations around the world. Together we aim to build online and physical spaces that encourage creativity through collaboration.
 
 ## Contributing
-Curious Penguins is open to contributions as we build NFT infrastruture. 
+Curious Penguins is open to contributions as we build web3 infrastruture. 
 
 For people who want to make changes to your project, please reach out for more on how to get started. 
 You will need a GitLab.com account to make any code changes and document commands to lint the code or run tests. These steps help to ensure high code quality and reduce the likelihood that the changes inadvertently break something. 
@@ -40,6 +40,7 @@ https://ymoz.com<br>
 https://wtp.curiouspenguins.com/<br>
 https://otp.curiouspenguins.com/<br>
 https://img.curiouspenguins.com/<br>
+https://qr.curiouspenguins.com/<br>
 
 
 ## Authors and acknowledgment

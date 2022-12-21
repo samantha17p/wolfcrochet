@@ -42,6 +42,8 @@ https://wtp.curiouspenguins.com/<br>
 https://otp.curiouspenguins.com/<br>
 https://img.curiouspenguins.com/<br>
 https://qr.curiouspenguins.com/<br>
+https://meme.curiouspenguins.com/<br>
+https://olt.curiouspenguins.com/<br>
 
 
 ## Authors and acknowledgment

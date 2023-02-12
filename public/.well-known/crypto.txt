@@ -1,3 +1,4 @@
 bitcoin: 39hBa6JmLTeWrjBGzFqPe5Bv5sBzjvAEBp
 dogecoin: DPABjPHTmGTytPcWaumPLo74y1bnePkva9
 litecoin: MNk1Ly1PcgAsHQpV5gWYoFpcA8bWaqoSdu
+monero: 45MaU2LZquVKfZ2FWunxLPR8re4kKbgB2T2nDNH47uEH5fXLpZV5q6vAPhKjtGziHT2BQetkxemVp9Z7eqJ2JjVK64UKtfQ

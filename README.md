@@ -35,15 +35,14 @@ You will need a GitLab.com account to make any code changes and document command
 ## Projects
 We are curious about ideas and focus on open source projects. Here are some Curiuos Penguins projects that you can become involved in.<br>
 https://gitlab.com/curiouspenguins/crypto.txt<br>
-https://www.cssdorks.com<br>
-https://ymoz.com<br>
-https://meme.horse/<br>
 https://wtp.curiouspenguins.com/<br>
 https://otp.curiouspenguins.com/<br>
 https://img.curiouspenguins.com/<br>
 https://qr.curiouspenguins.com/<br>
 https://meme.curiouspenguins.com/<br>
 https://olt.curiouspenguins.com/<br>
+https://poetry.curiouspenguins.com/<br>
+https://stories.curiouspenguins.com/<br>
 
 
 ## Authors and acknowledgment

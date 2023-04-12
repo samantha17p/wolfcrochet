@@ -38,6 +38,8 @@ https://gitlab.com/curiouspenguins/crypto.txt<br>
 https://wtp.curiouspenguins.com/<br>
 https://otp.curiouspenguins.com/<br>
 https://img.curiouspenguins.com/<br>
+https://ai.curiouspenguins.com/<br>
+https://ads.curiouspenguins.com/<br>
 https://qr.curiouspenguins.com/<br>
 https://meme.curiouspenguins.com/<br>
 https://olt.curiouspenguins.com/<br>
